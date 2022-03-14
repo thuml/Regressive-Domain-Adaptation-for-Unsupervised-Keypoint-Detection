@@ -1,4 +1,4 @@
-# Regressive-Domain-Adaptation-for-Unsupervised-Keypoint-Detection
+# Regressive-Domain-Adaptation-for-Unsupervised-Keypoint-Detection (RegDA)
 ## Our code is available at [TLlib examples for cross-domain keypoint detection](https://github.com/thuml/Transfer-Learning-Library/edit/dev-tllib/examples/domain_adaptation/keypoint_detection/)
 
 It’s suggested to use **pytorch==1.7.1** and torchvision==0.8.2 in order to better reproduce the benchmark results.
